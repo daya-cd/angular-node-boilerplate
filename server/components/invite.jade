@@ -1,0 +1,36 @@
+doctype html
+html(xmlns='http://www.w3.org/1999/xhtml')
+  head
+    meta(http-equiv='Content-Type', content='text/html; charset=utf-8')
+    style(type='text/CSS').
+      body, #body_style {
+      min-height:1000px;
+      }
+      table { page-break-inside:auto }
+      tr    { page-break-inside:avoid; page-break-after:auto }
+      thead { display:table-header-group }
+      tfoot { display:table-footer-group }
+  body(bgcolor='#EEEEEE')
+    table(width='100%', bgcolor='#EEEEEE', border='0', align='center', cellpadding='0', cellspacing='0')
+      tr
+        td(width='600')
+          table#table(width='600', bgcolor='#EEEEEE', border='0', cellspacing='0', cellpadding='0', align='center')
+            tr(height='100')
+              td(colspan='5')
+                img(src='http://cd-b.creativetest.co.uk/e-flyer/survey/header.png', width='600', style='display:block;')
+    table(width='100%', bgcolor='#EEEEEE', border='0', align='center', cellpadding='0', cellspacing='0')
+      tr
+        td(width='600')
+          table#table(width='600', bgcolor='#FFFFFF', border='0', cellspacing='0', cellpadding='0', align='center')
+            tr(height='200')
+              td(colspan='5')
+                p(style='font: 18px/22px Arial, Helvetica, sans-serif; color: #333333;margin-left:50px; margin-right:40px;margin-top: 50px;')
+                  strong Hi #{name},
+                p(style='font: 14px/18px Arial, Helvetica, sans-serif; color: #333333; margin-top:10px; margin-left:50px; margin-right:40px;')
+                  | Please take time to register your Atkins Behavioural Survey Account and complete your details via this link:
+                p(style='font: 14px/18px Arial, Helvetica, sans-serif; color: #333333; margin-top:10px; margin-left:50px; margin-right:40px;')
+                  a(href='http://surveys.atkinsglobal.com/#/register') http://surveys.atkinsglobal.com/#/register
+                p(style='font: 14px/18px Arial, Helvetica, sans-serif; color: #333333; margin-top:10px; margin-left:50px; margin-right:40px;margin-bottom:50px;')
+                  | Thanks,
+                  br
+                  | The Atkins Team

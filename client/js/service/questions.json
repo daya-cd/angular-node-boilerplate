@@ -1,0 +1,1597 @@
+[
+
+{
+  "id": "2",
+  "section": "Interacting",
+  "pageno":1,
+  "behaviour": "Being personally mature and respectful of others",
+  "level":"Is emotionally intelligent – is aware of and manages own behaviour to good effect and treats others respectfully",
+  "type": "levels",
+  "questions": [{
+    "id": 3,
+    "question":"Has self-confidence",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "question":"Is prepared to stand by their actions even when others may disagree",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },
+    {
+    "id": 5,
+    "question":"Is determined, resourceful and resilient in the face of challenges and adopts a ‘can do’ approach",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }, {
+    "id": 2,
+    "question":"Behaves with integrity and is honest, open and transparent",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }, {
+    "id": 6,
+    "question":"Values diversity, showing respect for differences in personal style and beliefs",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },
+   {
+    "id": 4,
+    "question":"Aware of own strengths and weaknesses and creates opportunities to develop their own competence",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }
+  ]
+},
+{
+  "id": "3",
+  "section": "Interacting",
+  "pageno":2,
+  "behaviour": "Engaging and working collaboratively",
+  "level":"Works collaboratively in own role",
+  "type": "levels",
+  "questions": [{
+    "id": 21,
+    "question":"Develops mutually beneficial relationships",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 16,
+    "question":"Recognises the interests of all parties and searches to find a ‘win-win’ solution",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 11,
+    "question":"Demonstrates sensitivity to and tolerance of the needs of others",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 17,
+    "question":"Shares information and own knowledge and skills openly",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 7,
+    "question":"Listens to and welcomes ideas from others",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 10,
+    "question":"Takes on additional activities in order to support others",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+},
+{
+  "id": 4,
+  "section": "Interacting",
+  "pageno":2,
+  "behaviour": "Engaging and working collaboratively",
+  "level":"Facilitates collaboration between others",
+  "type": "levels",
+  "questions": [{
+    "id": 12,
+    "question":"Takes repeated action to encourage cooperation and collaboration",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 23,
+    "question":"Encourages others to share knowledge",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question":"Negotiates collaboratively & encourages others to do the same",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 8,
+    "question":"Manages conflict between stakeholders in a resourceful, incisive and empathetic manner",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question":"Demonstrates an understanding of the behaviours and emotions of others – even when unspoken",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question":"Visibly and quickly deals with those who harass or unfairly discriminate",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }
+  ]
+},
+{
+  "id": "5",
+  "section": "Interacting",
+  "pageno":2,
+  "behaviour": "Engaging and working collaboratively",
+  "level":"Creates a culture of collaboration",
+  "type": "levels",
+  "questions": [{
+    "id": 16,
+    "question":"Facilitates the mutual agreement of common goals and objectives",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 13,
+    "question":"Ensures threats to collaborative working are effectively managed",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 19,
+    "question":"Encourages and facilitates the sharing of information and skills across the community / organisations where relevant",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 18,
+    "question":"Identifies, establishes and develops successful long term relationships often at a senior level",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 20,
+    "question":"Deals tactfully and effectively with highly contentious and/or politically sensitive issues",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 22,
+    "question":"Demonstrates exemplary collaborative behaviour",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+},
+
+{
+  "id": "6",
+  "section": "Interacting",
+  "pageno":3,
+  "behaviour": "Leading and developing the team",
+  "level":"Effectively leads and manages tasks",
+  "type": "levels",
+  "questions": [{
+    "id": 39,
+    "question":"Takes the lead where required, sharing expertise to develop the best solution",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 30,
+    "question":"Coaches, supports and develops colleagues where they have skills to share",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 25,
+    "question":"Treats others fairly and equally and is not afraid to speak up when something is wrong",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 40,
+    "question":"Meets regularly with people and keeps colleagues, the client and other stakeholders informed of progress",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 37,
+    "question":"Challenges others when required in a supportive, non-confrontational manner",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 31,
+    "question":"Sets clear and challenging objectives",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+},
+{
+  "id": "7",
+  "section": "Interacting",
+  "pageno":3,
+  "behaviour": "Leading and developing the team",
+  "level":"Actively seeks to develop individuals and the team",
+  "type": "levels",
+  "questions": [{
+    "id": 24,
+    "question":"Ensures that roles, responsibilities and accountabilities are clear across the whole team",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 32,
+    "question":"Maximises opportunities for the development and retention of knowledge and skills",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 36,
+    "question":"Coaches and supports individuals and teams, keeping morale high particularly in difficult circumstances",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 41,
+    "question":"Communicates a sense of purpose and consistently nurtures the team’s buy-in",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 35,
+    "question":"Motivates & influences teams and individuals to deliver against objectives",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 33,
+    "question":"Deals effectively with performance (both positive and negative), giving honest and constructive feedback",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+},
+{
+  "id": "8",
+  "section": "Interacting",
+  "pageno":3,
+  "behaviour": "Leading and developing the team",
+  "level":"Provides inspirational leadership ",
+  "type": "levels",
+  "questions": [{
+    "id": 29,
+    "question":"Delivers an exciting long-term vision, which inspires others to perform beyond expectation",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 26,
+    "question":"Leads, manages and inspires change, making it happen",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 38,
+    "question":"Develops high level strategies and tactics for influencing; demonstrating political savvy and know-how",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 27,
+    "question":"Encourages and rewards effective team working and high performance",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 34,
+    "question":"Creates an environment where learning and development is valued",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 28,
+    "question":"Takes responsibility for leading/setting the right example on governance issues",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+},
+{
+  "id": "9",
+  "section": "Acting",
+  "pageno":4,
+  "behaviour": "Improving & innovating",
+  "level":"Approaches problems in own role to find a better way",
+  "type": "levels",
+  "questions": [{
+    "id": 55,
+    "question":"Continuously challenges current ways of working to identify innovative and enduring improvements",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 52,
+    "question":"Experiments with new ideas even when this may carry a risk of failure",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 44,
+    "question":"Anticipates problems before they occur and takes proactive and if necessary, creative steps to deal with them",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 48,
+    "question":"Learns from mistakes & sees them as a way of learning and improving",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 42,
+    "question":"Builds on the ideas of others to develop a better solution",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 54,
+    "question":"Identifies new perspectives for others",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+},
+{
+  "id": "10",
+  "section": "Acting",
+  "pageno":4,
+  "behaviour": "Improving & innovating",
+  "level":"Innovates naturally and encourages others to do so too",
+  "type": "levels",
+  "questions": [{
+    "id": 43,
+    "question":"Engages with team and with stakeholders to challenge current practice and seek improved ways of working",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 49,
+    "question":"Develops solutions to improve sustainability",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 56,
+    "question":"Welcomes new ideas from the team and encourages them to think differently",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 45,
+    "question":"Seeks feedback on how the innovative process could improve",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 53,
+    "question":"Ensures that failures and learning are routinely captured and that the knowledge is used to improve performance",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 59,
+    "question":"Deploys invention and innovation to improve standard practices and to challenge existing standards of performance",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+},
+{
+  "id": "11",
+  "section": "Acting",
+  "pageno":4,
+  "behaviour": "Improving & innovating",
+  "level":"Creates an environment where innovation is valued and rewarded",
+  "type": "levels",
+  "questions": [{
+    "id": 57,
+    "question":"Ensures innovation is embedded in ways of working",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 51,
+    "question":"Promotes a culture of innovation by regularly communicating good ideas and success stories",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 47,
+    "question":"Publicly supports and rewards innovative, sustainable solutions",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 46,
+    "question":"Is willing to take measured risks in the interests of innovation and continuous learning",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 50,
+    "question":"Commits resources – both money and time to develop new ideas and approaches",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 58,
+    "question":"Benchmarks performance against external comparators to encourage innovation",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+},
+{
+  "id": "12",
+  "section": "Acting",
+  "pageno":5,
+  "behaviour": "Delivering exceptional performance",
+  "level":"Works towards achieving and exceeding goals",
+  "type": "levels",
+  "questions": [{
+    "id": 74,
+    "question":"Follows through on commitments, keeping stakeholders informed of progress",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 68,
+    "question":"Consistently produces high quality work which meets or exceeds customer expectations",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 62,
+    "question":"Takes responsibility for own work and uses initiative",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 77,
+    "question":"Ensures things get done in time / to the right standard",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 71,
+    "question":"Takes on additional tasks in order to achieve a goal or objective",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 64,
+    "question":"Demonstrates an understanding of the business and commercial issues affecting own work",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+},
+{
+  "id": "13",
+  "section": "Acting",
+   "pageno":5,
+  "behaviour": "Delivering exceptional performance",
+  "level":"Sets high standards for others and achieves / exceeds collective goals ",
+  "type": "levels",
+  "questions": [{
+    "id": 76,
+    "question":"Sets ambitious targets for others and ensures that goals are delivered",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 69,
+    "question":"Seeks feedback about ineffective practices from the customer and other stakeholders and takes appropriate action",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 63,
+    "question":"Plans, allocates and organises resources effectively",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 72,
+    "question":"Effectively monitors actions, alerts client and team to potential difficulties and takes appropriate action",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 70,
+    "question":"Takes responsibility for communicating progress",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 60,
+    "question":"Is dynamic and energetic, creates pace and drives things forward",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+},
+{
+  "id": "14",
+  "section": "Acting",
+   "pageno":5,
+  "behaviour": "Delivering exceptional performance",
+  "level":"Develops an outcome driven, customer focussed culture ",
+  "type": "levels",
+  "questions": [{
+    "id": 75,
+    "question":"Adopts a relentless focus on the delivery of commitments",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 67,
+    "question":"Drives performance and seeks to add value",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 61,
+    "question":"Benchmarks the whole team against best practice to drive performance delivery",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 66,
+    "question":"Creates a delivery culture with a clear purpose",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 73,
+    "question":"Has strong commercial instincts and develops commercial savvy throughout the team",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 65,
+    "question":"Channels the collective energy to focus on achieving the right outcomes for customers",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+},
+{
+  "id": "15",
+  "section": "Acting",
+   "pageno":6,
+  "behaviour": "Being healthy & safe by choice",
+  "level":"A compliant approach to safety",
+  "type": "levels",
+  "questions": [{
+    "id": 92,
+    "question":"Is familiar with & knowledgeable about relevant H&S regulations & procedures",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 87,
+    "question":"Reports all accidents, incidents & near misses",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 80,
+    "question":"Conducts risk assessments and will speak up when they spot an H&S or well-being issue",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 95,
+    "question":"Will challenge unsafe behaviours in others and make suggestions to improve safety",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 85,
+    "question":"Manages operational pressures so that health, safety & well-being are not compromised",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 82,
+    "question":"Joins in during meetings when H&S and well-being is being discussed, demonstrating an active interest",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+},
+{
+  "id": "16",
+  "section": "Acting",
+   "pageno":6,
+  "behaviour": "Being healthy & safe by choice",
+  "level":"Seeks to look ahead and take a proactive approach to safety",
+  "type": "levels",
+  "questions": [{
+    "id": 94,
+    "question":"Communicates, encourages & rewards safe behaviour",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 86,
+    "question":"Conducts regular audits as required to evaluate safety practice & challenges local practice to find a safer way",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 81,
+    "question":"Shares lessons learnt across the team",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 93,
+    "question":"Clearly identifies and communicates design risks to stakeholders",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 88,
+    "question":"Engages contractors early in design to seek feedback on H&S issues",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 79,
+    "question":"Leads by example and actively reinforces safe behaviours, beginning all meetings with a safety moment",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+},
+{
+  "id": "17",
+  "section": "Acting",
+   "pageno":6,
+  "behaviour": "Being healthy & safe by choice",
+  "level":"Safety is embedded in the business and an integral part of the way we work",
+  "type": "levels",
+  "questions": [{
+    "id": 90,
+    "question":"Creates a culture of safety within the team, ensuring it is at the heart of everything and that people feel comfortable raising concerns",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 89,
+    "question":"Benchmarks best H&S practice & introduces appropriate improvements",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 83,
+    "question":"Engages with external partners to implement H&S & well-being best practice where applicable",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 91,
+    "question":"Regularly seeks feedback on design / H&S issues at all stages of a project",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 84,
+    "question":"Encourages team members to raise H&S concerns, creating an open & honest forum for ideas & debate",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  },{
+    "id": 78,
+    "question":"Ensures that H&S & well-being are embedded fully within processes and training",
+    "options": [{
+        "description": "unlikely",
+        "score":0
+      }, {
+        "description": "likely",
+        "score":1
+      },
+      {
+        "description": "verylikely",
+        "score":2
+      }
+    ]
+  }]
+}
+
+]

@@ -1,0 +1,38 @@
+<div class='col-md-12 on-edit'>
+  <div class="row">
+    <h4 class="color-white">Hello {{profile.fname}}</h4>
+    <form role="form" class="form"  ng-submit="updateuser()">
+        <div class="row">
+          <div class='col-md-6' style="margin-bottom: 60px;">
+            <div class="form-group">
+              <input type="hidden" class="form-control"  required ng-model="credentials.company" ng-init="credentials.id=profile.id">
+              <input type="text" class="form-control" id="" placeholder="First Name" ng-init="credentials.first=profile.fname" required ng-model="credentials.first">
+            </div>
+            <div class="form-group">
+              <input type="email" class="form-control" id="" placeholder="Email" required ng-model="credentials.email" ng-init="credentials.email=profile.email">
+            </div>
+            <div class="form-group">
+              <input type="text" class="form-control" id="" placeholder="Please mention your company name" required ng-model="credentials.company" ng-init="credentials.company=profile.company">
+            </div>
+          </div>
+          <div class='col-md-6' style="margin-bottom: 60px;">
+            <div class="form-group">
+              <input type="text" class="form-control" id="" placeholder="Surname" required ng-model="credentials.last" ng-init="credentials.last=profile.lname">
+            </div>
+            <div class="row">
+              <div class="form-group col-md-6">
+                <input type="password" class="form-control" id="" placeholder="Password" ng-model="credentials.password">
+              </div>
+              <div class="form-group col-md-6">
+                <input type="password" class="form-control" id="" placeholder="Confirm Password" ng-model="credentials.confirmpassword">
+              </div>
+            </div>
+            <div class="form-group pull-right">
+              <a ng-click="x.edit=false" class="login-btn bg-color-dark-grey margin-right-20px">Cancel {{edit}}</a>
+              <button type="submit" class="survery-btn">Save</button>
+            </div>
+          </div>
+        </div>
+    </form>
+  </div>
+</div>

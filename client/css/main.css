@@ -1,0 +1,18 @@
+@font-face{font-family:"FrutigerLTW01-45Light";src:url("../fonts/frutiger_web/frutigerltstd-light-webfont.eot");src:url("../fonts/frutiger_web/frutigerltstd-light-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/frutiger_web/frutigerltstd-light-webfont.woff") format("woff"),url("../fonts/frutiger_web/frutigerltstd-light-webfont.ttf") format("truetype"),url("fonts/frutiger_web/frutigerltstd-light-webfont.svg") format("svg")}
+@font-face{font-family:"FrutigerLTW01-55Roman";src:url("../fonts/frutiger_web/frutigerltstd-roman-webfont.eot");src:url("../fonts/frutiger_web/frutigerltstd-roman-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/frutiger_web/frutigerltstd-roman-webfont.woff") format("woff"),url("../fonts/frutiger_web/frutigerltstd-roman-webfont.ttf") format("truetype"),url("../fonts/frutiger_web/frutigerltstd-roman-webfont.svg") format("svg")}
+@font-face{font-family:"Frutiger LT W01 65 Bold";src:url("../fonts/frutiger_web/frutigerltstd-bold-webfont.eot");src:url("../fonts/frutiger_web/frutigerltstd-bold-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/frutiger_web/frutigerltstd-bold-webfont.woff") format("woff"),url("../fonts/frutiger_web/frutigerltstd-bold-webfont.ttf") format("truetype"),url("../fonts/frutiger_web/frutigerltstd-bold-webfont.svg") format("svg")}
+
+
+*{
+  list-style: none;
+  box-sizing:border-box;
+}
+body{
+  /*background-color: #394a58;*/
+  background-color: #fff;
+  color: #000;
+  font-family: 'FrutigerLTW01-45Light';
+
+  background-color: #e6e7e8 !important;
+  background-size: cover;
+}

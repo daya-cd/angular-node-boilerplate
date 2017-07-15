@@ -1,0 +1,49 @@
+<div data-ui-view ng-controller="profileController">
+  <div class="container-fluid section-admin">
+
+
+   <div class="container" >
+    <div class="col-md-11 no-padding-left">
+      <div class="collapse navbar-collapse no-padding-left" id="bs-example-navbar-collapse-1">
+        <ul id="navUL" class="nav navbar-nav">
+          <li  ng-show="isLoggedIn==true" class="active" ><a href="#/profile/myprofile" class="bold ">My Profile</a></li>
+  
+        </ul>
+
+
+      </div>
+    </div>
+    <div class="col-md-1">
+      <a href="#logout" class="pull-right" style="font-size: 14px;margin-top: 11px;color:#fff;margin-right: 5px;">Logout</a>
+
+    </div>
+  </div>
+</div>
+<div class="container" style="background-color:#0098DB; background-image:url('../images/img5.png');background-repeat:no-repeat; background-size: cover;">
+  <div ng-switch on="x.edit">
+    <div ng-switch-when="true">
+      <div ng-include='"/js/views/profile/edit/editprofile.tpl.html"'></div>
+    </div>
+    <div ng-switch-when=false>
+      <div class="col-md-6 select-intro">
+        <h4>Hello {{profile.fname}}</h4>
+        <div>
+          <h5 class="myprofile-edit-info">{{profile.fname}} {{profile.lname}}</h5>
+        </div>
+        <div>
+          <h5 class="myprofile-edit-info">{{profile.email}}</h5>
+        </div>
+        <div>
+          <h5 class="myprofile-edit-info" style="margin-bottom: 60px;">{{profile.company}}</h5>
+        </div>
+      </div>
+      <div class="col-md-6 edit-btn-div">
+        <a ng-click="x.edit=true" class="edit-btn bg-color-dark-grey margin-right-20px ng-binding pull-right">Edit {{edit}}</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+

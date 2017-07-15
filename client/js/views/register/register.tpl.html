@@ -1,0 +1,121 @@
+<div data-ui-view ng-controller="registerController">
+  <div class="container">
+    <div id="register">
+      <div class='row'>
+        <div class='col-md-12'>
+          <div class="error-messages">
+            <div class="alert alert-danger" ng-show="error==true">All fields are required!</div>
+            <!--  <div class="alert alert-success" ng-show="registered==true">Thanks for registering<span><a href="#login">Login here.</a></span></div> -->
+            <div class="alert alert-danger" ng-show="alreadyExists==true">This email id already exists! Please reset password or contact adminstrator.</div>
+            <!-- <div class="alert alert-danger" ng-show="notAuthorizedToRegister==true">Sorry. You are not authorized to register. Please contact Rozy.</div> -->
+          </div>
+        </div>
+      </div>
+      <div class='row 'ng-show="registered==true" >
+        <div id="thank-register" class='col-md-7 col-md-offset-2 text-center bg-blue '>
+          <div class="col-md-12 thanks-for-registering">
+            <div class="row">
+           
+              <h2>Thanks for registering</h2>
+            </div>
+          </div>
+          <div class="col-md-12 please-log-in">
+            <div class="row">
+              <div class="col-md-8">
+                <p>Please log in </p>
+              </div>
+              <div class="col-md-3">
+                <a href="#login" class="login-btn-thank-you">Log in</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='row' ng-show="registered==false">
+        <div class='col-md-10 col-md-offset-3'>
+          <form role="form" class="form top-space" id="register" ng-submit="register()">
+             <div class="row">
+            <div class='col-sm-6'>
+              <h2 class="intro-login margin-bottom-30px"><legend>Welcome</legend>Please register to begin</h2>
+
+            </div>
+            <div class='col-sm-6'>
+             
+            </div>
+          </div>
+            <div class='col-sm-4'>
+              <div class="group">
+                <input type="text"  required ng-model="credentials.first">
+                <span class="highlight"></span>
+                <span class="bar"></span>
+                <label>First Name</label>
+              </div>
+            </div>
+            <div class='col-sm-4'>
+              <div class="group">
+                <input type="text"   required ng-model="credentials.last">
+                <span class="highlight"></span>
+                <span class="bar"></span>
+                <label>Last Name</label>
+              </div>
+            </div>
+            <div class='col-sm-8'>
+              <div class="group">
+                <input type="email"   required ng-model="credentials.email">
+                <span class="highlight"></span>
+                <span class="bar"></span>
+                <label>Email</label>
+              </div>
+            </div>
+            <div class='col-sm-8'>
+              <div class="row">
+                <div class='col-sm-6'>
+                  <div class="group">
+                    <input type="password"  required ng-model="credentials.password">
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label>Password</label>
+                  </div>
+                </div>
+                <div class='col-sm-6'>
+                  <div class="group">
+                    <input type="password"   required ng-model="credentials.confirmpassword">
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label>Confirm password</label>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class='col-sm-8'>
+              <div class="group">
+                <input type="text"   required ng-model="credentials.company">
+                <span class="highlight"></span>
+                <span class="bar"></span>
+                <label>Company name</label>
+              </div>
+            </div>
+            <div class='col-sm-8 '>
+              <div class="group pull-right no-margin-bottom">
+                <button type="submit" class="survery-btn pull-right ">Register</button>
+                
+              </div>
+            </div>
+            <div class='col-sm-8 '>
+              <hr>
+              <div class='col-sm-4 no-padding-left'>
+                <h4> Already registered?</h4>
+              </div>
+              <div class='col-sm-4 '>
+                <a href="#login" class="login-btn bg-color-dark-grey">Log in</a>
+              </div>
+              <div class='col-sm-4 no-padding-right'>
+                <h4 style="text-align: right;"><a href="#resetpassword">Forgot Password?</a></h4>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

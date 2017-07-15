@@ -1,0 +1,76 @@
+ <div data-ui-view ng-controller="loginController">
+    <div class="container">
+       <div class='row'>
+        <div class='col-md-10 col-md-offset-3'>
+            <div id="login">
+
+             <div class="error-messages">
+                <div class="alert alert-danger" ng-show="error==true">Invalid Email or Password!</div>
+                <div class="alert alert-success" ng-show="loggedout==true">Logged out successfully!</div>
+            </div>
+        </div>
+    </div>
+
+    <div class='col-md-10 col-md-offset-3'>
+        <form role="form" class="form top-space" ng-submit="login()">
+           <div class='col-sm-8'>
+               <div class="row">
+
+                <div class='col-sm-6'>
+                  <h2 class="intro-login margin-bottom-30px no-padding">Hello</h2>
+              </div>
+              <div class='col-sm-6'>
+                  <legend class="margin-top-20px pull-right login" style="width: 64%;">Please log in below</legend>
+              </div>
+          </div>
+      </div>
+      <div class='col-sm-8 margin-top-20px'> 
+        <div class="group">
+
+            <input type="email"   placeholder="Email" required ng-model="credentials.email">
+            <span class="highlight"></span>
+            <span class="bar"></span>
+            <label>Email</label>
+
+
+        </div>
+    </div>
+
+    <div class='col-sm-8'> 
+        <div class="group">
+
+            <input type="password" placeholder="Password" required ng-model="credentials.password">
+            <span class="highlight"></span>
+            <span class="bar"></span>
+            <label>Password</label>
+        </div>
+    </div>
+
+    <div class='col-sm-8 '>
+      <div class="pull-right">
+        <button type="submit" class="survery-btn pull-right ">Submit</button>
+
+    </div>
+</div>
+
+<div class='col-sm-8'> 
+    <hr>
+
+    <div class='col-sm-4 '>
+        <h4>Not Registered?</h4>
+    </div>
+    <div class='col-sm-4 '>
+       <a href="#register" class="login-btn bg-color-dark-grey">Register</a>
+   </div>
+   <div class='col-sm-4 no-padding-right'>
+
+    <h4 style="text-align: right;"><a href="#resetpassword">Forgot Password?</a></h4>
+</div>
+</div>
+<!-- <h4><a href="#resetpassword">Forgot Password?</a></h4> -->
+</form>
+
+</div>
+</div>
+</div>
+</div>
